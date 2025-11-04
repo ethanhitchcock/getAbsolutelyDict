@@ -1,0 +1,11 @@
+PySide6>=6.6
+sounddevice>=0.4
+soundfile>=0.12
+numpy>=1.23
+pynput>=1.7
+openai>=1.6
+tenacity>=8.2
+pyperclip>=1.8
+platformdirs>=3.0
+pydantic>=2.0
+pyqtgraph>=0.13
